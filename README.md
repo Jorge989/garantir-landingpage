@@ -1,6 +1,6 @@
 # garantir-landingpage ✨
 
-### Projeto criado em hmtl em conjunto com SASS
+### Projeto criado com HTML5 em conjunto com SASS
 
 + 100% Responsivo
 
